@@ -6,9 +6,9 @@
   strings: {
     heroTitle: 'Học các khái niệm khoa học máy tính bằng cách <span>xem chúng chạy</span>',
     lede: '22 trình mô phỏng tương tác về thuật toán và cấu trúc dữ liệu — chọn một chủ đề bên dưới để bắt đầu.',
-    allTopics: 'tất cả chủ đề',
-    moreTopics: 'thêm chủ đề',
-    open: 'Mở →',
+    allTopics: 'Tất cả chủ đề',
+    moreTopics: 'Thêm chủ đề',
+    open: 'Mở',
     'card.pathfinding': 'BFS, DFS, Dijkstra và A* chạy đua trên một lưới mà bạn tự vẽ tường.',
     'card.searching': 'Tìm kiếm tuyến tính và tìm kiếm nhị phân, từng bước một, đặt cạnh nhau.',
     'card.data-structures': 'Stack, queue, danh sách liên kết và cây nhị phân — push, pop, chèn và xem kết quả ngay.',

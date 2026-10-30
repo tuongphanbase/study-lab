@@ -33,7 +33,7 @@ A hub page linking to twenty-two small, single-file, dependency-free visualizers
 
 `index.html` is the hub — a light, card-based landing page that links out to each page above.
 
-No frameworks, no build step, no dependencies other than Google Fonts. Every page is its own self-contained HTML file with its `<style>` and `<script>` inline, same approach as [big-o-explained](https://github.com/tuongphanbase/big-o-explained) and [sorting-algorithms](https://github.com/tuongphanbase/sorting-algorithms).
+No frameworks, no build step, no dependencies (system fonts only). Every page is its own self-contained HTML file with its `<style>` and `<script>` inline, same approach as [big-o-explained](https://github.com/tuongphanbase/big-o-explained) and [sorting-algorithms](https://github.com/tuongphanbase/sorting-algorithms).
 
 ## Running it locally
 
