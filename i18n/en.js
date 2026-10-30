@@ -8,7 +8,7 @@
     'nav.language': 'Language',
     'nav.toggleSidebar': 'Toggle sidebar',
     'nav.search': '⌕ Search topics...',
-    'nav.overview': '◆ Overview',
+    'nav.overview': 'Overview',
     'nav.group.fundamentals': 'Fundamentals',
     'nav.group.dataStructures': 'Data Structures',
     'nav.group.graphs': 'Graphs',
@@ -49,9 +49,9 @@
     'lab.allDone': 'All lessons done 🎉',
     'lab.yourProgress': 'Your progress',
     'lab.overviewProgress': '{n} of {total} lessons done · saved in this browser',
-    'lab.continue': 'Continue: {title} →',
-    'lab.startWith': 'Start with: {title} →',
-    'lab.doneReview': '✓ Done · review →',
+    'lab.continue': 'Continue: {title}',
+    'lab.startWith': 'Start with: {title}',
+    'lab.doneReview': '✓ Done · review',
     'lab.quizTitle': 'Check your understanding',
     'lab.quizSub': '{n} quick questions. Get them all right and the lesson is marked as done.',
     'lab.correct': '✓ Correct.',
@@ -61,8 +61,8 @@
     'lab.retry': 'Try the quiz again ↻',
     'lab.markDone': 'Mark lesson as done',
     'lab.unmarkDone': '✓ Done · mark as not done',
-    'lab.next': 'Next: {title} →',
-    'lab.backToTopics': 'Back to all topics →',
+    'lab.next': 'Next: {title}',
+    'lab.backToTopics': 'Back to all topics',
     'lab.bestScore': 'Best quiz score: {s} / {n}'
   }
 });

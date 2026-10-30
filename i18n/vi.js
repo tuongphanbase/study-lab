@@ -8,7 +8,7 @@
     'nav.language': 'Ngôn ngữ',
     'nav.toggleSidebar': 'Ẩn/hiện thanh bên',
     'nav.search': '⌕ Tìm chủ đề...',
-    'nav.overview': '◆ Tổng quan',
+    'nav.overview': 'Tổng quan',
     'nav.group.fundamentals': 'Nền tảng',
     'nav.group.dataStructures': 'Cấu trúc dữ liệu',
     'nav.group.graphs': 'Đồ thị',
@@ -49,9 +49,9 @@
     'lab.allDone': 'Bạn đã học xong tất cả 🎉',
     'lab.yourProgress': 'Tiến độ của bạn',
     'lab.overviewProgress': 'Đã xong {n}/{total} bài · lưu trong trình duyệt này',
-    'lab.continue': 'Học tiếp: {title} →',
-    'lab.startWith': 'Bắt đầu với: {title} →',
-    'lab.doneReview': '✓ Đã xong · ôn lại →',
+    'lab.continue': 'Học tiếp: {title}',
+    'lab.startWith': 'Bắt đầu với: {title}',
+    'lab.doneReview': '✓ Đã xong · ôn lại',
     'lab.quizTitle': 'Kiểm tra mức độ hiểu bài',
     'lab.quizSub': '{n} câu hỏi nhanh. Trả lời đúng tất cả thì bài học sẽ được đánh dấu là đã xong.',
     'lab.correct': '✓ Chính xác.',
@@ -61,8 +61,8 @@
     'lab.retry': 'Làm lại bài kiểm tra ↻',
     'lab.markDone': 'Đánh dấu đã học xong',
     'lab.unmarkDone': '✓ Đã xong · bỏ đánh dấu',
-    'lab.next': 'Bài tiếp theo: {title} →',
-    'lab.backToTopics': 'Về danh sách chủ đề →',
+    'lab.next': 'Bài tiếp theo: {title}',
+    'lab.backToTopics': 'Về danh sách chủ đề',
     'lab.bestScore': 'Điểm quiz cao nhất: {s} / {n}'
   }
 });
